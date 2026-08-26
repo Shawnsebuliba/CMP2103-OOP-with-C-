@@ -13,5 +13,4 @@ By the end of this course, you should be able to:
 - Basic standard C++ facilities
 
 ## Prerequisites
-Basic knowledge of C++ programming is recommended, including:
-- Interest to learn and create interesting stuff!
+- Interest and ability to learn and create interesting stuff!
