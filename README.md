@@ -44,11 +44,10 @@ Basic knowledge of C++ programming is recommended, including:
 
 ## Getting Started
 
-A simple C++ program looks like this:
+A simple C++ "Hello, World!" program:
 
 ```cpp
-#include <iostream>
-
+import std;
 int main() {
     std::cout << "Hello, World!\n";
     return 0;
