@@ -8,9 +8,13 @@ This tutorial introduces the fundamental concepts of Object-Oriented Programming
 ## Learning Objectives
 By the end of this course, you should be able to:
 
-- Understand the fundamentals programming concepts
+- Understand the fundamental programming concepts
 - Understand key useful techniques
 - Basic standard C++ facilities
+- Write good code
 
 ## Prerequisites
 - Interest and ability to learn and create interesting stuff!
+
+## Note
+- This is an introductory course to C++, and students are expected to study more advanced courses on the topic. The examples listed are not meant to hardcode your thinking; rather, they are intended to facilitate good thought processes as you learn to write better programs.
