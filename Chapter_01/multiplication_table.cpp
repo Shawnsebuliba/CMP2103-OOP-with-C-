@@ -23,5 +23,5 @@ int main() {
 // Compile std to be found by g++
 // g++-16 -std=c++23 -fmodules -fsearch-include-path -c bits/std.cc
 
-// Compile cod
+// Compile code
 // g++-16 -std=c++23 -fmodules multiplication_table.cpp -o output/multiplication_table && output/multiplication_table
