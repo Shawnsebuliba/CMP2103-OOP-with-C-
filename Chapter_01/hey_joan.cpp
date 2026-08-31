@@ -1,4 +1,4 @@
-// read and write a first name
+// A program that prompts for a first name and return a greeting.
 import std;
 using namespace std;
 
