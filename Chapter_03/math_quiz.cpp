@@ -1,5 +1,5 @@
 // A program that generates five questions and, after a student correctly answers all of
-// them, reports the number of correct answers. 
+// them, reports the number of correct answers.
 
 // Five questions
 // Count correct answers
@@ -10,6 +10,13 @@
 #include <print>
 
 using namespace std;
+
+// subtraction function
+int subtract(int num1, int num2)
+{
+    int answer = num1 - num2;
+    return answer;
+}
 
 int main()
 {
@@ -30,7 +37,7 @@ int main()
         int answer = 0;
 
         cin >> user_answer;
-        answer = first_num - second_num;
+        answer = subtract(first_num, second_num);
         if (answer == user_answer)
         {
             // increment correct answer count
